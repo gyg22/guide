@@ -59,9 +59,9 @@
 </node>
 <node CREATED="1307263689210" ID="ID_421657372" MODIFIED="1307264237168" POSITION="left" TEXT="index">
 <icon BUILTIN="help"/>
-<node CREATED="1307263694449" ID="ID_1247429372" MODIFIED="1365131600909" TEXT="&#x52a0;&#x901f;&#x67e5;&#x8be2;&#xff1b;&#x957f;&#x67e5;&#x8be2;&#x7684;&#x5217;&#x4f7f;&#x7528;&#x7d22;&#x5f15;&#xff0c;&#x56e0;&#x4e3a;&#x66f4;&#x65b0;&#x7d22;&#x5f15;&#x4e5f;&#x8981;&#x8017;&#x8d39;&#x65f6;&#x95f4;&#x548c;&#x8d44;&#x6e90;"/>
+<node CREATED="1307263694449" ID="ID_1247429372" MODIFIED="1365144424793" TEXT="&#x52a0;&#x901f;&#x67e5;&#x8be2;&#xff1b;&#x957f;&#x67e5;&#x8be2;&#x7684;&#x5217;&#x4f7f;&#x7528;&#x7d22;&#x5f15;&#xff0c;&#x66f4;&#x65b0;&#x7d22;&#x5f15;&#x8981;&#x8017;&#x8d39;&#x65f6;&#x95f4;&#x548c;&#x8d44;&#x6e90;"/>
 <node CREATED="1307263749544" ID="ID_1467864055" MODIFIED="1307263764593" TEXT="&#x6dfb;&#x52a0;&#x7d22;&#x5f15;">
-<node CREATED="1307263765751" ID="ID_908343434" MODIFIED="1307263781903" TEXT="&#x4e00;&#x822c;&#x7d22;&#x5f15;&#xff1a;">
+<node CREATED="1307263765751" ID="ID_908343434" MODIFIED="1365144323377" TEXT="&#x7d22;&#x5f15;&#xff1a;">
 <node CREATED="1307263803912" ID="ID_49152708" MODIFIED="1365133664038" TEXT="create index index_name on table_name (col)"/>
 </node>
 <node CREATED="1307263782758" ID="ID_1087302030" MODIFIED="1365132900544" TEXT="&#x552f;&#x4e00;&#x7d22;&#x5f15;:&#x4e24;&#x884c;&#x4e0d;&#x80fd;&#x62e5;&#x6709;&#x76f8;&#x540c;&#x7684;&#x7d22;&#x5f15;&#x503c;">

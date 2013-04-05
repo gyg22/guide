@@ -23,8 +23,7 @@
       ruby use the first char to distinguish global,constant,class,instance_variable,local variable,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1350274193800" ID="ID_247361522" MODIFIED="1350276970115" TEXT="variable">
@@ -65,7 +64,7 @@
 <node CREATED="1350274235311" ID="ID_1783958004" MODIFIED="1350274288189" TEXT="class, object">
 <node CREATED="1350285538878" ID="ID_691057515" MODIFIED="1356680376974" TEXT="class viewpoint, object viewpoint"/>
 <node CREATED="1350277908998" ID="ID_1235331357" MODIFIED="1350280370718" TEXT="understand how an object is initialized"/>
-<node CREATED="1350285581576" FOLDED="true" ID="ID_1571033997" MODIFIED="1365140131200" TEXT="self">
+<node CREATED="1350285581576" ID="ID_1571033997" MODIFIED="1365144047928" TEXT="self">
 <node CREATED="1350285609014" ID="ID_1639840111" MODIFIED="1350285640908" TEXT="set self to receiver"/>
 <node CREATED="1350285641529" ID="ID_496997645" MODIFIED="1350285673392" TEXT="find method in the receiver&apos;s class,superclass, superclass&apos;s superclass..."/>
 <node CREATED="1350285678112" ID="ID_281525751" MODIFIED="1350285689064" TEXT="result">
@@ -162,7 +161,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1350360880569" FOLDED="true" ID="ID_1918491811" MODIFIED="1365140459560" TEXT="method object">
+<node CREATED="1350360880569" FOLDED="true" ID="ID_1918491811" MODIFIED="1365144079177" TEXT="method object">
 <node CREATED="1350360913637" ID="ID_925316714" MODIFIED="1350360946818" TEXT="method object is like a proc object"/>
 <node CREATED="1350360982241" ID="ID_1021905619" MODIFIED="1350361311779">
 <richcontent TYPE="NODE"><html>
@@ -278,7 +277,7 @@
 <node CREATED="1350293959619" ID="ID_504298276" MODIFIED="1350293971438" TEXT="object.kind_of? ClassName"/>
 <node CREATED="1350293974539" ID="ID_1588223836" MODIFIED="1350293978144" TEXT="object.class"/>
 </node>
-<node CREATED="1350294331683" FOLDED="true" ID="ID_40903997" MODIFIED="1365140531121" TEXT="looking at classes, that is definition">
+<node CREATED="1350294331683" ID="ID_40903997" MODIFIED="1365144070251" TEXT="looking at classes, that is definition">
 <node CREATED="1350294850040" ID="ID_1295087380" MODIFIED="1350294879941" TEXT="ClassName.ancestors"/>
 <node CREATED="1350294880722" ID="ID_462814098" MODIFIED="1350294888627" TEXT="ClassName.superclass"/>
 <node CREATED="1350297500019" ID="ID_407821604" MODIFIED="1350297531407" TEXT="ClassName.private_instance_methods(false)"/>
