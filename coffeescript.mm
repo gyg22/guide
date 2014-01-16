@@ -94,7 +94,7 @@
 <node CREATED="1356680191693" ID="ID_1897636159" MODIFIED="1356680205833" TEXT="use extends to inherit"/>
 <node CREATED="1356413622596" ID="ID_1136282357" MODIFIED="1356413632257" TEXT="object">
 <node CREATED="1356413636633" ID="ID_1988943708" MODIFIED="1356680053148" TEXT="literal . .."/>
-<node CREATED="1356679851374" ID="ID_1708862030" MODIFIED="1365141558712" TEXT="In JavaScript, every object is like hash, and everything is an object,  the only exceptions are the primitives (booleans, numbers, and strings, function), and  a few special constants like undefined and NaN. Use typof var (which returns a string to represent type) to check"/>
+<node CREATED="1356679851374" ID="ID_1708862030" MODIFIED="1366939098661" TEXT="In JavaScript, everything is an object,  the only exceptions are the primitives (booleans, numbers, and strings, function), and  a few special constants like undefined and NaN. Use typof var (which returns a string to represent type) to check"/>
 </node>
 </node>
 <node CREATED="1350282429215" ID="ID_1220639746" MODIFIED="1350282455815" TEXT="type conversion"/>
@@ -116,7 +116,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1356666473225" FOLDED="true" ID="ID_124960086" MODIFIED="1365143249232" TEXT="file loading and share">
+<node CREATED="1356666473225" ID="ID_124960086" MODIFIED="1366938770565" TEXT="file loading and share">
 <node CREATED="1356681707053" ID="ID_931862610" MODIFIED="1356681875282">
 <richcontent TYPE="NODE"><html>
   <head>

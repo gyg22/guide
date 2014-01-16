@@ -27,14 +27,12 @@
 <node CREATED="1307262465109" ID="ID_1049793351" MODIFIED="1307262473235" TEXT="&#x5217;&#x503c;&#x7684;&#x7ea6;&#x675f;">
 <node CREATED="1307262538908" ID="ID_1294437028" MODIFIED="1307262545654" TEXT="&#x7ea6;&#x675f;&#x7c7b;&#x578b;">
 <node CREATED="1307262562270" ID="ID_983359652" MODIFIED="1307262567079" TEXT="not null"/>
-<node CREATED="1307262568461" ID="ID_1657196802" MODIFIED="1307262572317" TEXT="default">
-<node CREATED="1307262726791" ID="ID_890235368" MODIFIED="1307262812325" TEXT="&#x7ed3;&#x5408;insert &#x548c; not null&#x7406;&#x89e3;&#x4e3a;&#xff1a;&#x5f53;&#x6ca1;&#x6709;&#x8d4b;&#x503c;&#x65f6;&#xff0c;&#x8d4b;default"/>
-</node>
+<node CREATED="1307262568461" ID="ID_1657196802" MODIFIED="1307262572317" TEXT="default"/>
 <node CREATED="1307262650042" ID="ID_868232774" MODIFIED="1307262652349" TEXT="unique">
 <node CREATED="1307262676811" ID="ID_932669591" MODIFIED="1307262718930" TEXT="&#x5217;&#x503c;&#x5f7c;&#x6b64;&#x4e0d;&#x540c;&#xff0c;&#x4f46;&#x5141;&#x8bb8;&#x591a;&#x4e2a;null"/>
 </node>
-<node CREATED="1307262603636" ID="ID_1830632623" MODIFIED="1307262619558" TEXT="primary key">
-<node CREATED="1307262818856" ID="ID_1381064577" MODIFIED="1307262861052" TEXT="not null,unique,&#x53ea;&#x80fd;&#x6709;&#x4e00;&#x5217;primary key"/>
+<node CREATED="1307262603636" ID="ID_1830632623" MODIFIED="1369839084383" TEXT="primary key(col1, col2)">
+<node CREATED="1369839158681" ID="ID_1440267177" MODIFIED="1369839186153" TEXT="create table links (id integer not null auto_increment, url varchar(255), primary key(id));"/>
 </node>
 <node CREATED="1307262619877" ID="ID_1131681166" MODIFIED="1307262626610" TEXT="foreign key">
 <node COLOR="#338800" CREATED="1307262864584" ID="ID_791048897" MODIFIED="1307262931715" TEXT="&#x8be5;&#x5217;&#x6307;&#x5411;&#x53e6;&#x4e00;&#x4e2a;&#x8868;&#x7684;primary key,&#x7528;&#x4e8e;&#x7ef4;&#x7cfb;&#x8868;&#x95f4;&#x7684;&#x5173;&#x7cfb;"/>
@@ -43,7 +41,7 @@
 <node CREATED="1307262944189" ID="ID_1336175869" MODIFIED="1307262962490" TEXT="&#x6307;&#x5b9a;&#x8be5;&#x5217;&#x7684;&#x503c;&#x5728;&#x67d0;&#x4e2a;&#x8303;&#x56f4;&#x5185;"/>
 </node>
 <node CREATED="1307262644952" ID="ID_359567441" MODIFIED="1307262975500" TEXT="auto_increment">
-<node CREATED="1307262989388" ID="ID_208828542" MODIFIED="1307263148473" TEXT="&#x7ed9;&#x5b9a;&#x4e00;&#x4e2a;&#x521d;&#x59cb;&#x503c;&#xff0c;&#x7ea6;&#x675f;&#x540e;&#xff0c;&#x81ea;&#x52a8;&#x8d4b;&#x503c;&#x4f7f;&#x8be5;&#x5217;&#x6bcf;&#x6b21;&#x589e;&#x52a0;1;&#x957f;&#x548c;primary key&#x914d;&#x5408;&#x4f7f;&#x7528;&#x3002;"/>
+<node CREATED="1307262989388" ID="ID_208828542" MODIFIED="1369839257690" TEXT="&#x7ed9;&#x5b9a;&#x4e00;&#x4e2a;&#x521d;&#x59cb;&#x503c;&#xff0c;&#x7ea6;&#x675f;&#x540e;&#xff0c;&#x81ea;&#x52a8;&#x8d4b;&#x503c;&#x4f7f;&#x8be5;&#x5217;&#x6bcf;&#x6b21;&#x589e;&#x52a0;1."/>
 </node>
 </node>
 <node CREATED="1307262546090" ID="ID_601056046" MODIFIED="1307263311248" TEXT="&#x6dfb;&#x52a0;&#x7ea6;&#x675f;">
